@@ -13,7 +13,8 @@ Examen final Java
 
 ## Imagen donde se puede ver como se añaden elementos al carrito
 ![Añadir elemento](https://github.com/manugym/Proyecto_Sesiones_y_Cookies/blob/main/img/anadir_elemento.jpg)
-##Código que permite añadir elementos al carrito
+
+## Código que permite añadir elementos al carrito
 ![Código añadir elemento](https://github.com/manugym/Proyecto_Sesiones_y_Cookies/blob/main/img/codigo_anadir.jpg)
 
 ## Imagen donde se puede ver como se añaden elementos al carrito
